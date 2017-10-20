@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Makindu ExpressC\.android\build-cache\0d3223ab2aad62de703bdd9b44ce3dd82e1da662\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="D:\Vault\androidProjects\DevLauncherBeta\app\build\intermediates\pre-dexed\debug\classes_3dce0cc6a2fd7d3cf668b0c9ac60795e992e7bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Makindu ExpressC\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Vault\androidProjects\DevLauncherBeta\app\build\intermediates\pre-dexed\debug\library-2.4.0_c1e4ef528376eaa4c287bd8796eab968d0f73f44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Makindu ExpressC\.android\build-cache\9708236fc019d8807a7c5e666596afdb39f9c782\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="83aa61788b6dd674d7d3460dffc74715b5de8451">
+        <dex dex="D:\Vault\androidProjects\DevLauncherBeta\app\build\intermediates\pre-dexed\debug\classes_e36dddd3eb655ed8d50b78ab1e9e7005a4e745d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Vault\androidProjects\DevLauncherBeta\app\libs\activeandroid-3.1-beta.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60a522113b5b4beca6696530394e411705988e92">
+        <dex dex="D:\Vault\androidProjects\DevLauncherBeta\app\build\intermediates\pre-dexed\debug\activeandroid-3.1-beta_7b2c5d0fa9882c056a97c5bf2f6ee41ece2efd75.jar" />
+    </item>
+
+</items>
