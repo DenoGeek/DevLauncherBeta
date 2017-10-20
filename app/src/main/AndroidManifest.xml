@@ -1,0 +1,48 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+
+package="com.makinduempire.devlauncher">
+
+    <uses-permission android:name="android.permission.READ_CALL_LOG" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:name=".utils.MakinduApplication"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+    <activity android:name=".HomeActivity"
+        android:label="Makindu Launcher"
+        android:theme="@style/AppTheme.NoActionBar"
+        android:launchMode="singleTask"
+        android:stateNotNeeded="true">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.HOME" />
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+    </activity>
+
+    <activity android:name=".SplashActivity"
+        android:theme="@style/AppTheme.NoActionBar"
+        android:label="@string/app_name">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+    </activity>
+
+    <activity android:name=".AppChoserActivity"
+        android:theme="@style/AppTheme"
+        android:label="Home apps">
+
+        </activity>
+
+
+</application>
+
+</manifest>
+
+
